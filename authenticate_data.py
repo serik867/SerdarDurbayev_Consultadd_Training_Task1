@@ -44,3 +44,4 @@ def authenticate_user():
 
 #authenticate_user()
         
+#arr=[[random.randint(0,1) for i in range(4)] for i in range(6)] create random zero and one two dimensional array
