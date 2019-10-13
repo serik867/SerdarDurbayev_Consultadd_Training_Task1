@@ -1,5 +1,5 @@
 # SerdarDurbayev_Consultadd_Training_Task1
-River Size
+## Guess River Size 
 Guess river size on two dimensional array.
 
 Getting Started
