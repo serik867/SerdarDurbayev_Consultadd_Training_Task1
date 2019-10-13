@@ -23,10 +23,9 @@ def check_user(name,email): # check name and email if it is match return True el
     except:
         return False
 
-#print(check_user('Rayyan Saeed','rayya.saeed@outlook.com'))
 
-def authenticate_user():
-    #list_csv=clean_data()
+
+def authenticate_user(): # authenticating a user, try two time only
     count=1
     while count<3:
         name = input("Enter your name: ")
@@ -42,6 +41,6 @@ def authenticate_user():
             print("Try again")
             count+=1
 
-#authenticate_user()
+
         
-#arr=[[random.randint(0,1) for i in range(4)] for i in range(6)] create random zero and one two dimensional array
+

@@ -13,12 +13,7 @@ input matrix. Note that these sizes do not need to be in any particular order.
 Now from returned array of sizes You need to print "Guess the size of River" on each index, take input from user as guesses for each entry.
 
 If all entered sizes match then show You are the winner.
-If 60% of the inputs match with sizes in array of river sizes,show you got second position.
-else Show "Invest more money on Almonds, then come back".
 
-Now console should Ask if you wanted to play again: 
-IF Yes : Redirect to the Matrix Input.
-Else : Exit 
 
 
 Sample input:
@@ -31,10 +26,6 @@ Sample input:
 Sizes of River = [1,2,2,2,5] note:  This should not be visible to the user , this a reference for accuracy of output. 
 
 
-Sample output:
-Guess the size of River : input from user : note : This size should be compared with size present on specific or random index in river sizes array.
-Guess the size of River : input from user : 5   
-you are the winner .
 
 
 
