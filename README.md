@@ -46,11 +46,11 @@ User has three chances to guess.
 
 
 Sample input:
-[1,0,0,1,0]
-(1,0,1,0,0)
+[[1,0,0,1,0]
+[1,0,1,0,0]
 [0,0,1,0,1]
 [1,0,1,0,1]
-[1,0,1,1,0,
+[1,0,1,1,0]
 
 Sizes of River = [1,2,2,2,5] note:  This should not be visible to the user , this a reference for accuracy of output. 
 
